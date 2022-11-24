@@ -7,7 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/pan/robot_ws/devel:$CMAKE_PREFIX_PATH"
-export PWD='/home/pan/robot_ws/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/pan/robot_ws/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/pan/robot_ws/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/devel/lib:$LD_LIBRARY_PATH"
+export PWD='/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/build'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/devel/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/pan/robot_ws/src:/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/src:$ROS_PACKAGE_PATH"

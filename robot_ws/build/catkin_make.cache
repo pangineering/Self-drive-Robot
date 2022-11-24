@@ -1,2 +1,2 @@
-
--DCATKIN_DEVEL_PREFIX=/home/pan/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pan/robot_ws/install -G Unix Makefiles
+robot_odom
+-DCATKIN_DEVEL_PREFIX=/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/install -G Unix Makefiles

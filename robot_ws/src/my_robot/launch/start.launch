@@ -1,0 +1,4 @@
+<launch>
+    <node namee="ros_serial" pkg="rosserial_python" type="serial_node.py" output="screen" args="/dev/tyyUSB0" />
+    <node name="odom_bot" pkg="robot_odom" type="odom" output="screen" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/pan/Documents/GitHub/Self-drive-Robot/robot_ws/devel
+
+Name: robot_odom
+Description: Description of robot_odom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
